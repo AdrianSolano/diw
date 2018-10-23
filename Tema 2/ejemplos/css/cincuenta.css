@@ -1,0 +1,14 @@
+#div1{
+    float: left;
+    background: linear-gradient(to right,blue,blue);
+    width:55%;
+    height: 150px;
+}
+#div2{
+    float: left;
+    background-image: url("https://conceptodefinicion.de/wp-content/uploads/2017/03/Cielo.jpg");
+    background-repeat: no-repeat;
+    width: 55%;
+    height:150px;
+    
+}

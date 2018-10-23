@@ -28,3 +28,41 @@
     padding: 50px;
     box-shadow: 20px 40px 30px blue;
 }
+#cuadrado5{
+    width: 55em;
+    height: 10em;
+    border:9px solid gold;
+    padding: 20px;
+    box-shadow: 25px 40px 35px orange;
+}
+#cuadrado6{
+    width: 55em;
+    height: 10em;
+    border:9px solid orange;
+    padding: 20px;
+    box-shadow: 25px 40px 35px gold;
+}
+#parrafo1{
+    width: 150px;
+    height: 250px;
+    float: left;
+    margin: 0px;
+    padding: 0px;
+    border: 5px solid yellow;
+}
+#parrafo2{
+    width: 150px;
+    height: 250px;
+    float: left;
+    margin: 0px;
+    padding: 0px;
+    border: 5px solid blue;
+}
+#parrafo3{
+    width: 150px;
+    height: 250px;
+    float: left;
+    margin: 0px;
+    padding: 10px;
+    border: 5px solid red;
+}

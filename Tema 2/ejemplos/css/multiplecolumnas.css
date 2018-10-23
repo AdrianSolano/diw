@@ -2,6 +2,7 @@
     column-count: 0;
     column-gap: 40px;
     column-width:100px;
+    column-rule: 2px dotted cornflowerblue ;
 }
 
 #cuadrado2 h2{
@@ -13,14 +14,19 @@
     column-count: 6;
     column-gap: 30px;
     column-rule: 1px solid blue ;
+    Column-rule-color:red;
 
 }
 
 #cuadrado4{
-    margin: 50px;
-    width:50px;
-    height:50px;
-    border: 3px solid black;
+    width:1000px;
+    height:500px;
+    border: 3px solid red;
     resize: horizontal;
     overflow: auto;
+    margin-top:20px;
+    column-count: 6;
+    column-gap: 30px;
+    column-rule: 1px solid blue ;
+    Column-rule-color:red;
 }

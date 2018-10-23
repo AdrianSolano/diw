@@ -1,0 +1,29 @@
+div.arpha{
+    background-color: rgba(100, 200, 38, 0.1);
+    height:1px;
+    width:100px; 
+
+}
+div.arphaka{
+    background-color: rgba(100, 330, 39, 0.4);
+    height:15px;
+    width:110px;
+}
+
+div.cuadrado1{
+    background-color: hsl(100, 100%, 50%);
+    height:200px;
+    width: 550px;
+}
+div.cuadrado2{
+    background-color: rgb(255, 0, 255);
+    height:200px;
+    width: 550px;
+}
+#cuadrado3{
+    background: repeating-linear-gradient(blue 120,red 255,green 155);
+    color:black;
+    width:100%;
+    height:550px;
+}
+

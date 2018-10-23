@@ -1,0 +1,19 @@
+#cuadrado1{
+    resize: horizontal;
+    overflow: auto;
+}
+#cuadrado2{
+    resize: both;
+    overflow: auto;
+}
+.cuadrado{
+    width: 250px;
+    height: 200px;
+}
+#cuadrado3{
+background-color: green;
+}
+#cuadrado3:hover{
+    transform: translate(50%,150px);
+
+}

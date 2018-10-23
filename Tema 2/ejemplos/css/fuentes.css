@@ -31,3 +31,14 @@
     color:orange;
     border:10px solid black;
 }
+@font-face {
+    font-family: mySecondFont;
+    src: url(../images/FiraSans-TwoItalic.otf);
+    font-weight: bolder;
+}
+#cuadrado5{
+    font-family: mySecondFont;
+    width:200px;
+    color:red;
+    border:10px solid black;
+}
