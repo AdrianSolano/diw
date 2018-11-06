@@ -1,0 +1,7 @@
+.item{
+    border:5px #000000 solid;
+}
+.grid1{
+    display:grid;
+    grid-template-columns: repeat(2,3fr) 1fr;
+}
