@@ -5,13 +5,10 @@
 }
 #cuadrado1:hover{
     background-color:red;
-    animation-name: animacion1;
-    animation-duration: 5s;
 }
 
 input:focus{
     border:10px blue solid;
-    
 }
 
 @keyframes animacion1{

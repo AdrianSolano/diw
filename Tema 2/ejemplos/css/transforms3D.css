@@ -73,9 +73,5 @@
     /*Probar a cambiar los valores*/
     Backface-visibility:visible;
 }
-#cuadrado6{
-    background-color: green;
-    transform: rotateY(180deg) rotateX(110deg) rotateZ(145deg);
-    Backface-visibility:visible;
-}
+
 

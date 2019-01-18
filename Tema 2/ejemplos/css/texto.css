@@ -7,7 +7,7 @@
 #cuadrado2{
     width: 150px;
     color:blue;
-    white-space: 30px;
+    text-space: 30px;
     letter-spacing: 30px;
     text-align: center;
     word-wrap: break-word;
@@ -33,17 +33,4 @@
 #cuadrado4:hover {
     text-overflow: inherit;
     overflow: visible;
-}
-#cuadrado5{
-    text-indent: 15%;
-    writing-mode: vertical-lr;
-    text-orientation: sideways-right;
-    text-shadow: 5px 5px purple;
-    width:100px;
-    height:550px ;
-    color:yellow;
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: clip;
-    border:100px solid black;
 }

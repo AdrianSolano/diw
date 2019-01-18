@@ -30,27 +30,3 @@
     width:100%;
     height: 150px;
 }
-#cuadrado5{
-    background-image: url("https://wiki.warthunder.com/images/7/72/AP_Shot_icon.jpg");
-    background-repeat: repeat;
-    color: red;
-    width: 100%;
-    height: 150px;
-
-}
-#cuadrado6{
-    background-image: url("https://wiki.warthunder.com/images/9/92/Apcbc.gif"), url("https://wiki.warthunder.com/images/a/a1/APCBC_Shell_icon.jpg");
-    background-repeat: no-repeat;
-    background-position:left, center;
-    color: black;
-    width: 100%;
-    height: 100px;
-}
-#cuadrado7{
-    background-image: url("https://wiki.warthunder.com/images/7/76/HEAT_Shell_icon.jpg"),url("https://wiki.warthunder.com/images/6/6b/HEAT-FS_Shell_icon.jpg");
-    background-repeat: no-repeat;
-    background-position: left,center;
-    color: black;
-    width: 100%;
-    height: 150px;
-}

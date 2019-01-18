@@ -57,11 +57,3 @@
 #cuadrado6:hover{
     transform:translate(200px,0px) rotate(45deg);
 }
-
-#cuadrado7{
-    background-color: greenyellow;
-}
-
-#cuadrado7:hover{
-    transform: scale(2,3) translate(150px,0px) skew(20deg,30deg) rotate(40deg);
-}
