@@ -19,7 +19,7 @@
 
 .grid3{
     display:grid;
-    grid-template-columns: repeat(2,3fr) 1fr;
+    grid-template-columns: repeat(1,2fr) 1fr;
     grid-template-rows: repeat(3,100px);
 }
 
